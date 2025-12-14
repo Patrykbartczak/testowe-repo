@@ -1,1 +1,0 @@
-info - 'rozdzial 1'
